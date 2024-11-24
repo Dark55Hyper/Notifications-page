@@ -10,7 +10,7 @@ function Notifications() {
       </div>
       <ul className="notifications-list">
         <li className="notification-item new">
-          <img src="https://randomuser.me/api/portraits/men/32.jpg" alt="Mark Webber" className="user-avatar" />
+          <img src="https://via.placeholder.com/40" alt="User" className="user-avatar" />
           <div className="notification-content">
             <p><strong>Mark Webber</strong> reacted to your recent post <span className="notification-target">My first tournament today!</span></p>
             <span className="new-indicator">•</span>
@@ -18,7 +18,7 @@ function Notifications() {
           </div>
         </li>
         <li className="notification-item new">
-          <img src="https://randomuser.me/api/portraits/women/44.jpg" alt="Angela Gray" className="user-avatar" />
+          <img src="https://via.placeholder.com/40" alt="User" className="user-avatar" />
           <div className="notification-content">
             <p><strong>Angela Gray</strong> followed you</p>
             <span className="new-indicator">•</span>
@@ -26,7 +26,7 @@ function Notifications() {
           </div>
         </li>
         <li className="notification-item new">
-          <img src="https://randomuser.me/api/portraits/men/45.jpg" alt="Jacob Thompson" className="user-avatar" />
+          <img src="https://via.placeholder.com/40" alt="User" className="user-avatar" />
           <div className="notification-content">
             <p><strong>Jacob Thompson</strong> has joined your group <span className="notification-target">Chess Club</span></p>
             <span className="new-indicator">•</span>
@@ -34,7 +34,7 @@ function Notifications() {
           </div>
         </li>
         <li className="notification-item">
-          <img src="https://randomuser.me/api/portraits/men/33.jpg" alt="Rizky Hasanuddin" className="user-avatar" />
+          <img src="https://via.placeholder.com/40" alt="User" className="user-avatar" />
           <div className="notification-content">
             <p><strong>Rizky Hasanuddin</strong> sent you a private message</p>
             <div className="notification-message">Hello, thanks for setting up the Chess Club. I’ve been a member for a few weeks now and I’m already having lots of fun and improving my game.</div>
@@ -42,21 +42,21 @@ function Notifications() {
           </div>
         </li>
         <li className="notification-item">
-          <img src="https://randomuser.me/api/portraits/women/55.jpg" alt="Kimberly Smith" className="user-avatar" />
+          <img src="https://via.placeholder.com/40" alt="User" className="user-avatar" />
           <div className="notification-content">
             <p><strong>Kimberly Smith</strong> commented on your picture</p>
             <div className="notification-time">1 week ago</div>
           </div>
         </li>
         <li className="notification-item">
-          <img src="https://randomuser.me/api/portraits/men/51.jpg" alt="Nathan Peterson" className="user-avatar" />
+          <img src="https://via.placeholder.com/40" alt="User" className="user-avatar" />
           <div className="notification-content">
             <p><strong>Nathan Peterson</strong> reacted to your recent post <span className="notification-target">5 end-game strategies to increase your win rate</span></p>
             <div className="notification-time">2 weeks ago</div>
           </div>
         </li>
         <li className="notification-item">
-          <img src="https://randomuser.me/api/portraits/women/56.jpg" alt="Anna Kim" className="user-avatar" />
+          <img src="https://via.placeholder.com/40" alt="User" className="user-avatar" />
           <div className="notification-content">
             <p><strong>Anna Kim</strong> left the group <span className="notification-target">Chess Club</span></p>
             <div className="notification-time">2 weeks ago</div>
